@@ -1,1 +1,2 @@
 # LabC
+Primeiro mini projeto
